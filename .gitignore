@@ -9,5 +9,5 @@
 *.ckpt
 *.mat
 *.png
-event.out.tfevents*
+events.out.tfevents*
 
