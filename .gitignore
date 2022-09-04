@@ -10,4 +10,5 @@
 *.mat
 *.png
 events.out.tfevents*
+*.pyc
 
