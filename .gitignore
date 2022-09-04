@@ -10,4 +10,6 @@
 *.mat
 *.png
 events.out.tfevents*
+*.pyc
+settings.json
 
